@@ -1,0 +1,22 @@
+.app_section_container {
+    position: relative;
+    width: calc(100vw - 300px);
+    top: 0;
+    left: 50vw;
+    z-index: 2;
+  }
+  
+  @media (max-width: 768px) {
+    .app_section_container {
+      width: 100%;
+      left: 0;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .app_section_container {
+      width: calc(100% - 300px);
+      left: 150px;
+    }
+  }
+  

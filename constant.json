@@ -1,0 +1,87 @@
+{
+    "experiences": [
+        {
+            "company": "KJSCE",
+            "link": "/",
+            "title": "Data/ML Intern",
+            "duration": "Aug 2022 - Present",
+            "desc": [
+                "Working on slum area encroachment data mentored by faculty ,applied ML model for change detection project."
+                
+            ]
+        },
+        {
+            "company": "KJSCE Student's Council",
+            "link": "/",
+            "title": "Marketing Executive",
+            "duration": "Aug 2021 - Aug 2022",
+            "desc": [
+                "Interacted with several working professionals in market and service sector.",
+                "Developed good interpersonal skills.",
+                "Collaborated with fellow committee members, exchanging ideas, making decisions collectively, and working towards the success of the events."
+            ]
+        },
+        {
+            "company": "Mehery",
+            "link": "/",
+            "title": "Technical Intern",
+            "duration": "June 2023 - Present",
+            "desc": [
+                "Working on product developement",
+                "Day to day work includes developing the chatbot based product.",
+                "Testing the bugs."
+                
+            ]
+        },
+        
+        {
+            "company": "DeepCytes",
+            "link": "/",
+            "title": "Web Developer",
+            "duration": "June 2023 - Present",
+            "desc": [
+                "Creating new Websites for DeepCytes and their sister companies",
+                "Working on pre-existing websites."
+                
+            ]
+        },
+        {
+            "company": "Datazen Somaiya",
+            "link": "/",
+            "title": "Data Analyst Intern",
+            "duration": "June 2023 - Present",
+            "desc": [
+                "Worked on data science projects, mentored juniors, and organised successful hackathons and roadmap to data science events."
+                
+            ]
+        }
+
+    ],
+    "projects": [
+        {
+            "title":"Music Tune Webapp",
+            "image": "/musictune.JPG",
+            "desc": " Music tune web app is a music streaming allows users to look up lyrics, album information, artist information, and other information using filters.",
+            "skills": ["MERN Stack"],
+            "github": "",
+            "link": ""
+        },
+        {
+            "title":"Obstacle Course Race",
+            "image": "/racing game.JPG",
+            "desc": " As a part of our miniproject, we used Unity 3D and image processing to create a racing game with varying degrees of difficulty and a driving force.",
+            "skills": ["Unity 3D", "C#"],
+            "github": "https://github.com/Dwayne232001/Unity-3D-Game-ObstacleCourseRepo",
+            "link": "https://github.com/Dwayne232001/Unity-3D-Game-ObstacleCourseRepo"
+        },
+        {
+            "title":"Portfolio",
+            "image": "/portfo.JPG",
+            "desc": "I built a portfolio which describes my work , my past experience in a more creative and artistic way.",
+            "skills": ["React", "Html", "Css"],
+            "github": "https://swarangi3128.github.io/",
+            "link": "https://swarangi3128.github.io/"
+        }
+        
+    ]
+}
